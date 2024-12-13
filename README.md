@@ -14,7 +14,7 @@ A simple PHP tool to extract email addresses based on a website, email domain, a
 ## Installation
 1. Clone the repository and navigate to the directory:
    ```bash
-   git clone <https://github.com/anupgautamm/email-extractor.git>
+   git clone https://github.com/anupgautamm/email-extractor.git
    cd <project-directory>
    ```
 2. Install dependencies:
