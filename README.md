@@ -1,5 +1,4 @@
-# Email Extractor Bot
-
+# Email Extractor
 A simple PHP tool to extract email addresses based on a website, email domain, and niche, and export them into an Excel file.
 
 ## Features
